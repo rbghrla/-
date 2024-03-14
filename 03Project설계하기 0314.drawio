@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T03:25:53.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vCjnYk3BctAjnF0b64Ab" version="24.0.6" type="device" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-03-14T03:48:23.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xmuxLKwQ6Gsta5u7NPVF" version="22.1.15" type="device" pages="13">
   <diagram id="Exhmos0V5MrwLxkNMj15" name="01요구사항정리">
-    <mxGraphModel dx="3341" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,130 +67,130 @@
         <mxCell id="rH5uDCxlVJgdDC_gf3Qf-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[ 순서 ]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-프로젝트 설계&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 요구사항 분석&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1) 유스케이스&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2) 유스케이스명세서&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 클래스 다이어그램&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3 클래스 다이어그램(MVC2 패턴 변환)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3 Squence Diagram(Service별)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4 ERD 설계&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="900" width="230" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="49" width="654" height="1060" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-10" value="회원 - 구매자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-10" value="회원 - 구매자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-15" value="[조회 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-15" value="[조회 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1479" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-16" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-16" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1490" y="175" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-17" value="[펀딩&amp;nbsp; 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-17" value="[펀딩&amp;nbsp; 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-18" value="[인증 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-18" value="[인증 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1485" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-26" value="등록 된 프로젝트를 참여(결제)할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-26" value="등록 된 프로젝트를 참여(결제)할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="170" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-28" value="프로젝트 결제 방식을 선택할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-28" value="프로젝트 결제 방식을 선택할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="205" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-29" value="프로젝트 결제를 취소할 수 있다.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-29" value="프로젝트 결제를 취소할 수 있다.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="240" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-30" value="프로젝트 결제를 취소할 수 있다.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-30" value="프로젝트 결제를 취소할 수 있다.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="270" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-31" value="펀딩 프로젝트 목표달성 인원 현황을 확인할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-31" value="펀딩 프로젝트 목표달성 인원 현황을 확인할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="270" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-32" value="오픈 예정인 펀딩 프로젝트를 알림 신청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-32" value="오픈 예정인 펀딩 프로젝트를 알림 신청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="235" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-33" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-33" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="205" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-34" value="[커뮤니티&amp;nbsp; 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-34" value="[커뮤니티&amp;nbsp; 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-35" value="펀딩 프로젝트 등록을 신청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-35" value="펀딩 프로젝트 등록을 신청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-804" y="200" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-36" value="내가 작성한 게시물을 생성할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-36" value="내가 작성한 게시물을 생성할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="444" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-37" value="내가 작성한 게시물을 수정할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-37" value="내가 작성한 게시물을 수정할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="480" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-38" value="내가 작성한 게시물을 삭제할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-38" value="내가 작성한 게시물을 삭제할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="520" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-39" value="게시물을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-39" value="게시물을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="564" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-42" value="알림 신청한 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-42" value="알림 신청한 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-43" value="나의 문의 내역을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-43" value="나의 문의 내역을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-44" value="나의 결제(참여한 펀딩) 내역을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-44" value="나의 결제(참여한 펀딩) 내역을 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1499" y="360" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-46" value="관리자에게 1:!문의할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-46" value="관리자에게 1:!문의할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-47" value="[조회 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-47" value="[조회 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-374" y="760" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-48" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-48" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-385" y="795" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-49" value="펀딩 프로젝트 목표달성 인원 현황을 확인할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-49" value="펀딩 프로젝트 목표달성 인원 현황을 확인할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-385" y="855" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-50" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-50" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-390" y="825" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-51" value="사용자의 1:1문의 내역을 조회 할수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-51" value="사용자의 1:1문의 내역을 조회 할수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-385" y="885" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-58" value="[인증 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-58" value="[인증 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-805" y="1000" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-59" value="회원가입 요청시 사용자 입력정보를 받아 저장한다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-59" value="회원가입 요청시 사용자 입력정보를 받아 저장한다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-805" y="1034" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-60" value="ID/PW 받아 확인후 로그인 처리를 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-60" value="ID/PW 받아 확인후 로그인 처리를 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-805" y="1064" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-61" value="로그아웃시 유지되고있는 사용자 정보는 제거된다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-61" value="로그아웃시 유지되고있는 사용자 정보는 제거된다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-805" y="1094" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-62" value="회원가입을 할 수 있다.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-62" value="회원가입을 할 수 있다.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-798" y="420" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-69" value="로그인 이후에 회원정보 조회가 가능하다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-69" value="로그인 이후에 회원정보 조회가 가능하다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1499" y="489" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-70" value="회원탈퇴 요청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-70" value="회원탈퇴 요청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1498" y="519" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-71" value="본인 확인을 위한 이메일인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-71" value="본인 확인을 위한 이메일인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1498" y="549" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-72" value="본인 확인을 위한 휴대폰인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-72" value="본인 확인을 위한 휴대폰인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1499" y="579" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-73" value="회원가입을 할 수 있다.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-73" value="회원가입을 할 수 있다.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="450" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-74" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-74" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-435" y="170" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-75" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-75" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-440" y="200" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-76" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-76" value="전체 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-95" y="155" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0eUAwjf5MrVSEbiYGi5-77" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R0eUAwjf5MrVSEbiYGi5-77" value="키워드별 펀딩 프로젝트를 조회할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-100" y="185" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -366,7 +366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6fUQH7VUnPiR7PBK6Aeu" name="03 [예제] 요구사항 속 CRUD찾기">
-    <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,13 +401,13 @@
           <mxGeometry x="-239" y="740" width="319" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vk2qYsGMrheLYAiDW2Ui-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="202" width="325" height="230" as="geometry" />
+          <mxGeometry x="-230" y="484.5" width="325" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vk2qYsGMrheLYAiDW2Ui-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-225" y="200" width="325" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vk2qYsGMrheLYAiDW2Ui-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-601" y="204" width="281" height="166" as="geometry" />
+          <mxGeometry x="-601" y="204" width="311" height="226" as="geometry" />
         </mxCell>
         <mxCell id="ifktzebI3L6FYhWPMpfX-1" value="1 요구사항 속 CRUD 찾기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-784" y="10" width="160" height="30" as="geometry" />
@@ -415,83 +415,23 @@
         <mxCell id="ifktzebI3L6FYhWPMpfX-2" value="2 CRUD 정리하여 테이블로 만들기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-784" y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-1" value="전체 도서를 검색할 수 있다(R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-603" y="210" width="190" height="30" as="geometry" />
+        <mxCell id="OvGhthTSagggiFbyS7MB-3" value="[조회 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-602" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-2" value="도서대여 예약 신청을 할 수 있다 - C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="234" y="362" width="220" height="30" as="geometry" />
+        <mxCell id="OvGhthTSagggiFbyS7MB-4" value="[회원가입 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-225" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-3" value="[도서 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-601" y="170" width="90" height="30" as="geometry" />
+        <mxCell id="OvGhthTSagggiFbyS7MB-10" value="[펀딩 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="450" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-4" value="[인증 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="170" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-5" value="회원가입 요청시 사용자 입력정보를 받아 저장한다 - C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="204" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-6" value="ID/PW 받아 확인후 로그인 처리를 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-226" y="234" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-7" value="로그아웃시 유지되고있는 사용자 정보는 제거된다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-226" y="264" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-8" value="로그인 이후에 회원정보 조회가 가능하다 - R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="294" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-9" value="회원탈퇴 요청시 본인 확인후 회원정보 삭제 -&amp;nbsp; D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="324" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-10" value="[대여 서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="172" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-11" value="도서대여 예약 신청를 취소 할 수 있다 - D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="239" y="302" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-12" value="나의 도서대여 리스트를 확인할 수 있다 - R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="237" y="210" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-13" value="도서대여 예약 순번을 확인 할 수 있다 - R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="237" y="332" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-14" value="대여된 도서 기간을 연장할 수 있다(3회)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="237" y="242" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-15" value="대여 불가능한 도서의 예약신청을 할 수 있다 - C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="239" y="272" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-16" value="대여가능한 도서를 검색할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="272" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-17" value="이름제목출판사키워드로&amp;nbsp; 도서 검색할 수 있다(R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-603" y="240" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-18" value="대여불가능한 도서를 검색할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-603" y="302" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-19" value="본인 확인을 위한 이메일인증을 할 수 있다(API)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-216" y="354" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OvGhthTSagggiFbyS7MB-20" value="본인 확인을 위한 휴대폰인증을 할 수 있다(API)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-216" y="384" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vk2qYsGMrheLYAiDW2Ui-3" value="학생Domain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="202" width="90" height="30" as="geometry" />
+        <mxCell id="vk2qYsGMrheLYAiDW2Ui-3" value="회원 Domain - 구매자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-795" y="202" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G-Xptct2ASivEc2ZTkQo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-601" y="490" width="286" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="G-Xptct2ASivEc2ZTkQo-2" value="비회원" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="495" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G-Xptct2ASivEc2ZTkQo-3" value="[도서서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-581" y="500" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G-Xptct2ASivEc2ZTkQo-4" value="전체 도서를 검색할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-581" y="540" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G-Xptct2ASivEc2ZTkQo-5" value="이름제목출판사키워드로&amp;nbsp; 도서 검색할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-581" y="570" width="270" height="30" as="geometry" />
+        <mxCell id="G-Xptct2ASivEc2ZTkQo-3" value="[커뮤니티서비스]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-612" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QbtnSUiW94OBiHOJ_J4j-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-601" y="740" width="286" height="170" as="geometry" />
@@ -693,6 +633,69 @@
             <mxPoint x="-810" y="990" as="sourcePoint" />
             <mxPoint x="810" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-1" value="전체 펀딩 프로젝트를 조회할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-601" y="207.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-2" value="펀딩 프로젝트 목표달성 인원 현황을 확인할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-606" y="302.5" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-3" value="오픈 예정인 펀딩 프로젝트를 알림 신청할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-596" y="267.5" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-4" value="키워드별 펀딩 프로젝트를 조회할 수 있다.-R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-601" y="237.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-5" value="알림 신청한 프로젝트를 조회할 수 있다. - R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-606" y="332.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-6" value="나의 문의 내역을 조회할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-606" y="362.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-7" value="나의 결제(참여한 펀딩) 내역을 조회할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="392.5" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-8" value="로그인 이후에 회원정보 조회가 가능하다 -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-227.5" y="249" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-9" value="회원탈퇴 요청할 수 있다. -D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-221.5" y="279" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-10" value="본인 확인을 위한 이메일인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-216.5" y="309" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-11" value="본인 확인을 위한 휴대폰인증을 할 수 있다" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-217.5" y="339" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-12" value="회원가입을 할 수 있다. -C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-218.5" y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-13" value="등록 된 프로젝트를 참여(결제)할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-208.5" y="500" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-14" value="프로젝트 결제 방식을 선택할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-208.5" y="535" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-15" value="프로젝트 결제를 취소할 수 있다.. -D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-218.5" y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-17" value="내가 작성한 게시물을 생성할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="490" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-18" value="내가 작성한 게시물을 수정할 수 있다. -U" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="526" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-19" value="내가 작성한 게시물을 삭제할 수 있다. -D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="566" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-20" value="게시물을 조회할 수 있다. -R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="610" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-21" value="관리자에게 1:1 문의할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="646" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13xOsby4q9bA8sG3Prtu-22" value="등록 된 프로젝트를 참여(결제)할 수 있다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-208.5" y="390" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
