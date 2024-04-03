@@ -5,8 +5,8 @@ import java.util.Map;
 
 public class FrontController {		// FrontController 클래스 정의
 
-	private Map<String,SubController> map = new HashMap();		// 사용자의 요청을 받기 위한 map 객체 생성 (key, value 값으로 받음 / 구체적인 요청은 SubController 로 넘겨주기 위해 클래스 자료형 사용)
-																// 제너릭에 대한 이해 필요
+	private Map<String,SubController> map = new HashMap();		// 사용자의 요청(uri)을 받기 위한 map 객체 생성 (key, value 값으로 받음 / 구체적인 요청은 SubController 로 넘겨주기 위해 클래스 자료형 사용)
+																// 서브컨트롤러와 뷰 사이의 역할
 	
 	FrontController(){		// FrontController 생성자
 		System.out.println("FrontController()");		// 생성자 호출 시 FrontController() 출력
@@ -18,9 +18,9 @@ public class FrontController {		// FrontController 클래스 정의
 		// /book	- BookController
 		// /member	- MemberController
 		// /lend	- LendController
-		map.put("/book", new BookController());			// 요청 uri (/book) 와 그에 해당하는 SubController(인터페이스)를 구현한 BookController 객체를 생성
-		map.put("/member", new MemberController());		// 요청 uri (/member) 와 그에 해당하는 subController(인터페이스)를 구현한 MemberController 객체를 생성
-		map.put("/lend", new LendController());			// 요청 uri (/lend) 와 그에 해당하는 subController(인터페이스)를 구현한 LendController 객체를 생성
+		map.put("/book", new BookController());		// 요청 uri (/book) 와 그에 해당하는 SubController(인터페이스)를 구현한 BookController 객체를 생성
+		map.put("/user", new UserController());		// 요청 uri (/member) 와 그에 해당하는 subController(인터페이스)를 구현한 MemberController 객체를 생성
+		map.put("/lend", new LendController());		// 요청 uri (/lend) 와 그에 해당하는 subController(인터페이스)를 구현한 LendController 객체를 생성
 	}
 	// 여기까지가 FrontController 객체에 대한 정의
 	
