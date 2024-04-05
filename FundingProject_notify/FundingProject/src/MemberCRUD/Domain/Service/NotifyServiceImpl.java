@@ -16,7 +16,7 @@ public class NotifyServiceImpl implements NotifyService {
 	private static  NotifyService instance;
 	public static  NotifyService getInstance() throws Exception {
 		if(instance==null)
-			instance=new  NotifyServiceImpl();
+			instance=NotifyServiceImpl.getInstance();
 		return instance;
 	}
 	

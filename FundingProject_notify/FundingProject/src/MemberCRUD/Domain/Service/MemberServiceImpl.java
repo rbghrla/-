@@ -13,8 +13,8 @@ public class MemberServiceImpl implements MemberService {
 
 	private MemberDao dao;
 	
-	private static  NotifyService instance;
-	public static  NotifyService getInstance() throws Exception {
+	private static  MemberService instance;
+	public static  MemberService getInstance() throws Exception {
 		if(instance==null)
 			instance=MemberServiceImpl.getInstance();
 		return instance;
@@ -22,12 +22,13 @@ public class MemberServiceImpl implements MemberService {
 	
 	private MemberServiceImpl() throws Exception {
 		dao = MemberDaoImpl.getInstance();
-	} //BookServieceImple 이 만들어질때 BookDao도 같이 만들어진다.
+	} 
 	
 	@Override
 	public boolean MemberRegister(MemberDto dto) throws Exception {
 		return dao.Insert(dto); //true, false 값 반환
 	}
+	
 	
 	
 	@Override

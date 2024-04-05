@@ -11,11 +11,13 @@ public class NotifyDaoImpl extends CommonDao implements NotifyDao{
 	private static NotifyDao instance;
 	public static NotifyDao getInstance() throws Exception {
 		if(instance==null)
-			instance=new NotifyDaoImpl();
+			instance = NotifyDaoImpl.getInstance();
 		return instance;
 	}
 	public NotifyDaoImpl() throws Exception {
+		
 		System.out.println("[DAO] NotifyDaoImpl's INIT..." +conn);
+	
 	}
 	
 	
@@ -28,8 +30,17 @@ public class NotifyDaoImpl extends CommonDao implements NotifyDao{
 		
 		int result = pstmt.executeUpdate();
 		freeConnection(pstmt); //자원정리 pstmt.close() 대신에 사용
-		return result > 0; //result가 잘 되었는지 true, flase로 반환
+		
+		if( result>0 ) {
+			System.out.println("insert successed..");
+		}else {
+			System.out.println("insert failed..");
+		}
+		return result>0;
+		
+	
 	}
+	
 	
 	//SELECT
 	@Override

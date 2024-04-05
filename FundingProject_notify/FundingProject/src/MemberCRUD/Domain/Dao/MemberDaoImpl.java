@@ -10,12 +10,12 @@ import java.util.List;
 
 import MemberCRUD.Domain.Dto.MemberDto;
 
-public class MemberDaoImpl extends CommonDao{
+public class MemberDaoImpl extends CommonDao implements MemberDao{
 	
 	private static  MemberDaoImpl instance;
 	public static  MemberDaoImpl getInstance() throws Exception {
 		if(instance==null)
-			instance=new  MemberDaoImpl();
+			instance = MemberDaoImpl.getInstance();
 		return instance;
 	}
 	

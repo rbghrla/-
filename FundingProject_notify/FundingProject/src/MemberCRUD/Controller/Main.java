@@ -39,12 +39,12 @@ public class Main {
 		
 		
 		
-//		NotifyDao dao = new NotifyDaoImpl();
+		NotifyDao dao = new NotifyDaoImpl();
 		
 		// Insert
-//		dao.Insert(new NotifyDto("B1",11111));
-//		dao.Insert(new NotifyDto("B2",11122));
-//		dao.Insert(new NotifyDto("B3",11133));
+		dao.Insert(new NotifyDto("B1",11111));
+		dao.Insert(new NotifyDto("B2",11122));
+		dao.Insert(new NotifyDto("B3",11133));
 		
 		//selectAll
 //		dao.SelectAll();
